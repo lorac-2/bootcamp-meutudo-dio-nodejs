@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tênis Nike",
+    "price": 299.9,
+    "quantity": 1,
+    "discount": 0.1
+  },
+  {
+    "name": "Fone JBL",
+    "price": 149.9,
+    "quantity": 3,
+    "discount": 0.1
+  }
+]

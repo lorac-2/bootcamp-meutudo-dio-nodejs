@@ -1,0 +1,16 @@
+{
+  "name": "09-npm-scripts",
+  "version": "1.0.0",
+  "description": "",
+   "type": "module",
+  "main": "index.js",
+ 
+  "scripts": {
+    "prebuild": "npm inatall",
+    "start:dev": "node src/index.js",
+    "start:watch": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
