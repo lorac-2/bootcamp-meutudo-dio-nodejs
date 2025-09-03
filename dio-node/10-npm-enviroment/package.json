@@ -1,0 +1,13 @@
+{
+  "name": "10-npm-enviroment",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node  --env.prod -file=.env --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
